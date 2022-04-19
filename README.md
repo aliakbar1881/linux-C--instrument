@@ -1,2 +1,2 @@
-# linux-C--instrument
+# linuxC++instrument
 extended feature to c++ environment
